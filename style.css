@@ -1,0 +1,48 @@
+body {
+    background-image: url('background.jpeg');
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    position:fixed;
+    left:0;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
+
+#heading1 {
+    color: black;
+    text-align: center;
+    font-weight:bold;
+}
+
+#heading2 {
+    color: black;
+    text-align: center;
+    font-weight:bold;
+}
+
+#heading3 {
+    color: black;
+    text-align: center;
+}
+
+#heading_section {
+    background-color:yellow;
+    position:absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    box-shadow: 10px 15px 38px black;
+}
+
+#canvas {
+    border: 5px solid white;
+    border-radius: 10px;
+    position:fixed;
+    right: -7;
+    bottom: 512;
+    background-color:white;
+}
